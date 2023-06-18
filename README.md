@@ -1,7 +1,6 @@
-
-<center>![Logo](https://cdn.discordapp.com/attachments/971059580329132112/1119995350317547590/BigBlackLogoBackgroundFR.png)</center>
-
-
+<p align="center">
+  <img width="460" height="300" src="https://cdn.discordapp.com/attachments/971059580329132112/1119995350317547590/BigBlackLogoBackgroundFR.png">
+</p>
 ## Options Available
 
 - Regular - The standard version of language files.
